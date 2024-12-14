@@ -6,6 +6,7 @@ public class ArrayListExample {
         //addi
         // ng elements to list
         list.add(10);
+
         list.add(20);
         list.add(30);
 
