@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class ArrayListExample {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<>();
-
-        //adding elements to list
+        //addi
+        // ng elements to list
         list.add(10);
         list.add(20);
         list.add(30);
