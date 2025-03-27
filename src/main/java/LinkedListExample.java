@@ -7,6 +7,8 @@ public class LinkedListExample {
 
         list.add("Nidhi");
         list.add("Parneet");
+        list.add("Anjali");
+        
         System.out.println(list);
 
     }
